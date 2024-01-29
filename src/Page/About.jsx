@@ -1,7 +1,7 @@
 import React from "react";
 import Paragraph from "../Component/Paragraph/Paragraph";
 import about from "../Image/about.png";
-import { useLocation ,useNavigate } from "react-router-dom";
+// import { useLocation ,useNavigate } from "react-router-dom";
 import { Outlet } from "react-router-dom";
 const About = () => {
 

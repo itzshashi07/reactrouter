@@ -3,7 +3,7 @@ import Paragraph from "../Component/Paragraph/Paragraph";
 import ContactMe from "../Image/contact.png";
 import Textfield from "../Component/Textfield/Textfield";
 import Button from "../Component/Button/Button";
-import { Outlet } from "react-router-dom";
+// import { Outlet } from "react-router-dom";
 const Contact = () => {
   return (
     <div className="mt-20">

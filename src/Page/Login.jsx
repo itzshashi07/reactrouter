@@ -4,7 +4,7 @@ import loginImg from "../Image/login.png";
 import Textfield from "../Component/Textfield/Textfield";
 import Button from "../Component/Button/Button";
 import { useReducer } from "react";
-import Homepage from "./Homepage";
+// import Homepage from "./Homepage";
 import { useNavigate } from "react-router-dom";
 
 const initialvalue = {
